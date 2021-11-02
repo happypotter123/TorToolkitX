@@ -1,5 +1,5 @@
 class Commands:
-    LEECH = "love"
+    LEECH = "Leechs"
     PURGE = "purge"
     PAUSEALL = "pauseall"
     RESUMEALL = "resumeall"
